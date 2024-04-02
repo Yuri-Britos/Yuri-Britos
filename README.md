@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem vindo ao Perfil Yuri Brito 😁
 
  <div>
    <a href="https://github.com/BreadcrumbsYuri-Britos">
